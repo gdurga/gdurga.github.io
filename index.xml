@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>novo teste</title>
+    <link>https://gdurga.github.io/</link>
+    <description>Recent content on novo teste</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 18 Jan 2023 13:19:04 -0300</lastBuildDate><atom:link href="https://gdurga.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post</title>
+      <link>https://gdurga.github.io/posts/primeiro-post/</link>
+      <pubDate>Wed, 18 Jan 2023 13:19:04 -0300</pubDate>
+      
+      <guid>https://gdurga.github.io/posts/primeiro-post/</guid>
+      <description>aioasjasljaslakdjs</description>
+    </item>
+    
+  </channel>
+</rss>
